@@ -56,6 +56,9 @@ background-color: #ffff99;
 .nav-content {
     color:#1D194F;
 }
+.navbar {
+    box-shadow:0px 0px 0px 0px !important;
+}
 .mynav {
     background-color: #ffffff;
 }
@@ -72,7 +75,7 @@ background-color: #ffff99;
     color:#1D194F;
 }
 .students {
-    margin-top:6rem !important;
+    margin-top:3rem !important;
 }
 /* First sec */
 
@@ -533,7 +536,7 @@ background-color: #ffff99;
     padding:8rem 6rem;
 }
 .line {
-    border:2px solid #fccb67;
+    border:2px solid #1D194F;
     width:100%;
     position:sticky;
     top:0;
@@ -671,6 +674,16 @@ background-color: #ffff99;
  .event-month{
      font-weight: 500;
      color: #5A5A5A
+ }
+
+ .allevents_link {
+     letter-spacing: 1.5px;
+     font-family: 'Raleway', sans-serif;
+     color:#686868;
+ }
+
+ .events_link {
+    margin-top:2rem;
  }
  /* upcoming events */
  
